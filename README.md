@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mahechayashvardhan38@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KNMmKTFiCkoiO8CpgUVANCFhc7Qifld4/view?usp=sharing](https://drive.google.com/file/d/1KNMmKTFiCkoiO8CpgUVANCFhc7Qifld4/view?usp=sharing)
+
 
 - ⚡ Fun fact **I was one amongst 100 state merit holders in the metric.**
 
