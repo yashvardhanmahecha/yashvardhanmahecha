@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashvardhan.</h1>
 <h3 align="center">A Google certified Data Analyst presently exploring and experimenting on the domain of deep learning.</h3>
+<img src="https://i.pinimg.com/originals/13/dc/1f/13dc1f9bd046a5c7825397eaebe1f852.gif" alt="Dogecoin to the moon" width="1000" height="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvardhanmahecha&label=Profile%20views&color=0e75b6&style=flat" alt="yashvardhanmahecha" /> </p>
 
