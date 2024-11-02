@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello  world 👋</h1>
 
-- 🔭 I’m currently upscaling my Data Science skills.
+- 🔭 I’m currently upscaling my data science skills.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashvardhanmahecha](https://github.com/yashvardhanmahecha)
 
