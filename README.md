@@ -1,13 +1,7 @@
 
 <h1 align="center">Hello  world 👋</h1>
-<h3 align="center">CSE GRAD!!</h3>
-<img src="https://i.pinimg.com/originals/13/dc/1f/13dc1f9bd046a5c7825397eaebe1f852.gif" alt="Dogecoin to the moon" width="1000" height="600">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/](https://in.pinterest.com/pin/615445105302620000/)?username=yashvardhanmahecha&label=Profile%20views&color=0e75b6&style=flat" alt="yashvardhanmahecha" /> </p>
-
-
-
-- 🔭 I’m currently working on [my Deep learning skills.](https://drive.google.com/drive/folders/1ZN7TfBvAHd5eCJXGNLgCCN9o01arH8IB)
+- 🔭 I’m currently upscaling my Data Science skills.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashvardhanmahecha](https://github.com/yashvardhanmahecha)
 
